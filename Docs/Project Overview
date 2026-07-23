@@ -1,0 +1,29 @@
+# Project Overview
+
+## Project
+**Advent Accord** is a long-form fantasy manhwa project with a painterly illustrative identity, cinematic composition, emotionally grounded storytelling, and a manifestation system built around unique personal mediums.
+
+## Production Goal
+Build a repeatable local production system capable of:
+- maintaining character identity,
+- reproducing the approved render style,
+- generating varied environments and intimate locations,
+- preserving manifestation logic,
+- producing storyboard and final-panel assets,
+- continuing to function when external AI usage is unavailable.
+
+## Core Priorities
+1. Stable render style
+2. Strong environment identity
+3. Correct anatomy
+4. Character consistency
+5. Narrative pacing
+6. Reproducible generation and training
+7. Reduced dependence on trial and error
+
+## Current Render Dataset Categories
+At least 20 approved references are targeted in each category:
+- Environment
+- Mood: weather, lighting, atmosphere, time of day
+- Character
+- Intimate locations: streets, interiors, markets, rooms, shops, halls, and similarly close spaces
