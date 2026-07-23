@@ -1,0 +1,142 @@
+{
+  "project": "Advent Accord",
+  "dataset": "Render LoRA Approved References",
+  "manifest_version": "1.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23",
+  "approval_count": 3,
+  "next_approval_id": "004",
+  "primary_benchmark_id": "002",
+  "categories_target": {
+    "environment": {
+      "minimum_approved": 20
+    },
+    "mood": {
+      "minimum_approved": 20
+    },
+    "character": {
+      "minimum_approved": 20
+    },
+    "intimate_location": {
+      "minimum_approved": 20
+    }
+  },
+  "style_target_summary": [
+    "painterly first, not hyperreal or PBR-like",
+    "selective detail rather than uniform micro-detail",
+    "low particulate density and restrained surface noise",
+    "large readable value groups",
+    "strong but controlled color",
+    "cinematic lighting",
+    "varied composition, orientation, perspective, and camera placement",
+    "environments retain their own identity",
+    "avoid excessive geometric clutter and generic anime drift"
+  ],
+  "approved_images": [
+    {
+      "approval_id": "001",
+      "status": "approved",
+      "benchmark": false,
+      "filename": "001_environment_grand_cityscape.png",
+      "relative_path": "approved/001_environment_grand_cityscape.png",
+      "category": "environment",
+      "subcategory": "grand cityscape",
+      "orientation": "landscape",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "aspect_ratio": "1536:1024",
+      "lighting": "golden-hour sunlight breaking through large cloud masses",
+      "weather": "clear-to-partly-cloudy",
+      "composition_camera": "wide elevated establishing view with monumental skyline and foreground overlook",
+      "palette": "warm cream-gold architecture, blue banners, cool blue-gray sky",
+      "detail_density": "moderate-to-high, selectively concentrated around architecture and plaza",
+      "strengths": [
+        "strong scale and city identity",
+        "clear focal hierarchy",
+        "good atmosphere and lighting",
+        "readable foreground-to-background depth"
+      ],
+      "training_use": [
+        "large environment rendering",
+        "grand architectural scale",
+        "warm/cool balance",
+        "wide landscape composition"
+      ]
+    },
+    {
+      "approval_id": "002",
+      "status": "approved",
+      "benchmark": true,
+      "filename": "002_intimate_location_sunset_street.png",
+      "relative_path": "approved/002_intimate_location_sunset_street.png",
+      "category": "intimate_location",
+      "subcategory": "close urban street overlooking city",
+      "orientation": "landscape",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "aspect_ratio": "1536:1024",
+      "lighting": "warm sunset with practical lantern glow and reflected light",
+      "weather": "clear with large stylized cloud forms",
+      "composition_camera": "experimental close street-level framing opening toward a varied skyline; strong foreground enclosure and depth",
+      "palette": "warm orange-gold, deep navy shadows, muted stone, selective blue accents",
+      "detail_density": "target balance: painterly, selectively detailed, neither sparse nor overtextured",
+      "strengths": [
+        "primary target style",
+        "good painterly simplification",
+        "colors pop without oversaturation",
+        "strong value grouping",
+        "varied skyline and immediate-location contrast",
+        "lived-in intimate environment",
+        "cinematic lighting",
+        "experimental camera placement"
+      ],
+      "training_use": [
+        "primary render-style benchmark",
+        "intimate location rendering",
+        "street/interior-adjacent scale",
+        "selective detail and edge hierarchy",
+        "warm practical lighting",
+        "foreground-to-distant-city composition"
+      ]
+    },
+    {
+      "approval_id": "003",
+      "status": "approved",
+      "benchmark": false,
+      "filename": "003_environment_highland_bridge_sunset.png",
+      "relative_path": "approved/003_environment_highland_bridge_sunset.png",
+      "category": "environment",
+      "subcategory": "highland valley with monumental stone bridge",
+      "orientation": "landscape",
+      "dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "aspect_ratio": "1448:1086",
+      "lighting": "golden-hour backlighting with warm sunset glow and cool valley shadows",
+      "weather": "clear to lightly clouded with atmospheric haze",
+      "composition_camera": "wide experimental overlook; foreground traveler at left, bridge sweeping across center, distant fortress at right",
+      "palette": "warm gold and peach sky, cool blue-gray mountains, deep green vegetation, muted stone",
+      "detail_density": "moderate selective detail with broad painterly masses and restrained texture",
+      "strengths": [
+        "strong foreground-middle-background layering",
+        "varied skyline and landform silhouettes",
+        "cinematic lighting",
+        "painterly value grouping",
+        "clear focal flow across the frame",
+        "good balance of environment scale and human presence"
+      ],
+      "training_use": [
+        "wide landscape rendering",
+        "environment scale",
+        "sunset lighting",
+        "atmospheric depth",
+        "experimental asymmetrical composition"
+      ]
+    }
+  ]
+}
