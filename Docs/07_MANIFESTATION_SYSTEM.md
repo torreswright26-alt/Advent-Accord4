@@ -42,6 +42,11 @@ Before full manifestation:
 
 ## Diversity
 Avoid repeated spears, geometric constructs, purple effects, and similar silhouettes.
+
+Medium diversity is a core design requirement. Manifestations should vary through distinctly personal substances or phenomena such as smoke, water, ash, crystal, cloth, sand, vines, ink, paper, mist, flame, glass, thread, metal filings, or other canonically appropriate mediums. These are examples, not a fixed list.
+
+The medium must govern the manifestation's motion, texture, rigidity, residue, offensive logic, defensive logic, utility, and interaction with the environment. Do not treat medium as a cosmetic effect applied to the same repeated shape.
+
 Vary:
 - medium,
 - behavior,
