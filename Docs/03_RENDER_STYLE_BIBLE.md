@@ -44,6 +44,7 @@ Avoid:
 - Avoid monochromatic dark drift.
 - Do not default every environment to teal-orange, purple, or black.
 - Colors should feel intentional and tied to lighting and culture.
+- Use color freely in character design while preserving coherent lighting, material identity, and cultural context.
 
 ## Composition
 Every approved training image should contribute a meaningfully different composition:
@@ -70,6 +71,18 @@ Deliberately vary:
 - tall vertical,
 - wide panoramic,
 - intimate crop.
+
+## Subject and Scene Diversity
+Across the approved dataset, deliberately vary:
+- location and environment type,
+- weather, season, time of day, and mood,
+- interior and exterior settings,
+- character age, body type, occupation, and silhouette,
+- wardrobe, hair color, eye color, and cultural styling,
+- character scale, activity, and relationship to the environment,
+- manifestation presence, intensity, color, behavior, and medium when active.
+
+Variation should produce distinct visual stories rather than cosmetic changes to the same scene template.
 
 ## Environmental Identity
 A location should remain visually itself even when characters or manifestations are present.
