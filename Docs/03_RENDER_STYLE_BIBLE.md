@@ -1,7 +1,16 @@
 # Render Style Bible
 
 ## Primary Benchmark
-The current primary benchmark is approval `002`, the intimate sunset street scene.
+
+The current primary renderer authority is the three-image core defined in
+`02_ART_DIRECTION.md`: the koi-garden woman, original intricate dark-coat man,
+and seated pendant woman.
+
+Historical approval `002`, the intimate sunset street, remains valuable for
+composition, lived-in architecture, foreground enclosure, and selective
+detail. It no longer outranks the three core anchors for facial treatment,
+material transitions, clothing richness, emotional maturity, or the overall
+renderer aesthetic.
 
 Its approved qualities:
 - painterly selective detail,
@@ -33,6 +42,32 @@ Avoid:
 - uniformly resolved surfaces,
 - procedural-looking texture,
 - tiny marks used to imitate craftsmanship.
+- thick or uniform outlines used in place of modeled form,
+- simplified animation surfaces,
+- automatic friendly adventure tone,
+- universally youthful or cosmetically idealized faces.
+
+## Mature Painterly Dimensionality
+
+The renderer must not stop at “clean painterly anime.” Faces, hands, clothing,
+and architecture should be built from softly connected dimensional planes with
+nuanced warm-cool transitions. Contours may clarify a focal edge, but internal
+form must come primarily from value, color, and material transition.
+
+Mature treatment includes:
+
+- varied facial structures and believable age;
+- restrained, specific expressions rather than automatic cheerfulness;
+- deep colored shadows that retain readable interior information;
+- fabric that carries weight, compression, layering, and construction;
+- transitions that can be soft, broken, lost, or sharply resolved according to
+  focus;
+- palettes that range broadly without becoming uniformly neon or muted;
+- beauty and romance alongside danger, melancholy, ugliness, awe, labor, and
+  uncertainty.
+
+Reject a result that is merely darker or grittier but still flat, outlined,
+generic, or emotionally empty.
 
 ## Detail Density and Focal Hierarchy
 The goal is not low detail. The goal is intentional allocation of detail.
