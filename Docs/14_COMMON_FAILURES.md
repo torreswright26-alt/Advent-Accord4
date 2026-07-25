@@ -38,3 +38,27 @@ Counter with:
 
 ## Geometric Drift
 Avoid unexplained angular plates, glowing polygons, hard-light clothing, and artificial design noise.
+
+## Polite Cartoon Drift
+
+Symptoms:
+
+- pleasant youthful faces regardless of prompt;
+- friendly adventure-story atmosphere;
+- clean dark outlines replacing dimensional modeling;
+- simplified fabric and skin transitions;
+- bright safe palettes repeated across unrelated scenes;
+- mature or difficult subjects made visually harmless.
+
+Counter with:
+
+- direct reference to mature, softly modeled dimensional planes;
+- specific age and facial structure;
+- deep colored shadows;
+- emotionally specific acting;
+- varied palette and light;
+- reduced outline dependence;
+- dataset weighting that gives the true aesthetic anchors meaningful influence.
+
+Do not “fix” polite cartoon drift by adding grime, darkness, particles, harsh
+texture, or photorealism.

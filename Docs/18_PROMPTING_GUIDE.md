@@ -21,6 +21,14 @@ Use language such as:
 - restrained particulate density,
 - controlled edge hierarchy,
 - cinematic but not photorealistic.
+- mature painterly-dimensional illustration,
+- softly modeled dimensional facial planes,
+- nuanced warm-cool transitions,
+- deep readable colored shadows,
+- rich material transitions,
+- emotionally specific expression,
+- minimal reliance on dark outlines,
+- no automatic cheerful-adventure tone.
 
 ## Avoid
 - generic keyword piles,
@@ -30,3 +38,16 @@ Use language such as:
 - "photorealistic",
 - "intricate texture everywhere",
 - repeated gothic skyline defaults.
+- “anime-influenced” as a universal style label,
+- generic “beautiful fantasy character” wording,
+- automatic friendly, heroic, or optimistic emotional framing,
+- using darkness, grime, or texture as shorthand for maturity.
+
+## Current R2 Trigger
+
+Use `aa_mature_renderer` after an R2 checkpoint has been selected and installed.
+Until then, treat it as training vocabulary rather than a production guarantee.
+
+Put subject, action, and place first. Describe rendering behavior after scene
+facts. Keep palette and mood scene-specific so the renderer does not learn one
+universal color script.
