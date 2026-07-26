@@ -45,6 +45,31 @@ Use language such as:
 
 ## Current R2 Trigger
 
+## Prompt Priorities for New Characters
+
+For a new character, specify design before decorative finish:
+
+1. age and mature facial structure;
+2. body build, weight, posture, and balance;
+3. role, temperament, and immediate intention;
+4. silhouette, grooming, and culturally authored wardrobe;
+5. garment construction, material weight, and a few meaningful details;
+6. hand placement and contact with relevant objects;
+7. relationship to the setting and its light.
+
+For environments, describe why the place exists and how it is used. Name
+purposeful evidence of work, storage, maintenance, habitation, ceremony, or
+weather rather than requesting generic "high detail" or "clutter."
+
+Useful phrasing:
+
+- selective garment detail following seams, layers, closures, and material;
+- lived-in room with purposeful tools, storage, wear, and circulation;
+- character and setting unified by one cohesive light and palette;
+- deep shaped shadows with readable interior color;
+- resolved face and hands, quieter secondary surfaces;
+- painterly transitions and lost edges outside the focal area.
+
 Use `aa_mature_renderer` after an R2 checkpoint has been selected and installed.
 Until then, treat it as training vocabulary rather than a production guarantee.
 

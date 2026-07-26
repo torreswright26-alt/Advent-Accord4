@@ -29,3 +29,18 @@ Future changes should extend this structure rather than replace it.
 - Updated prompting, quality gates, dataset policy, training pipeline,
   generation workflow, handoff order, and canon decisions to match current
   local project state.
+
+## 2026-07-26
+
+- Converted the latest comparison feedback into a fixed visual evaluation
+  order centered on anatomy, mature character design, and dimensional form.
+- Added independent comparison axes so stronger environment density and color
+  can be preserved without overlooking weaker anatomy or character design.
+- Defined lived-in environmental density as purposeful evidence of use rather
+  than generic clutter.
+- Clarified material detail versus particulate or procedural visual noise,
+  including how clothing can remain intricate without becoming oppressive.
+- Added a polished-concept-art drift test and practical prompting guidance for
+  new characters and environments.
+- Updated the AI handoff so another model can apply these rules without relying
+  on renderer experiment history.

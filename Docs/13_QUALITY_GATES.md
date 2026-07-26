@@ -37,3 +37,21 @@
 
 ## Texture Gate
 Reject images where surface texture becomes the primary visual event.
+
+## Comparison Rule
+
+Record strengths and shortcomings separately before selecting a winner. At
+minimum, compare anatomy/pose, character design/maturity, dimensional light and
+shadow, clothing/material construction, environment depth and lived-in density,
+color cohesion, painterly transition quality, and selective detail versus
+visual noise.
+
+Anatomy, character design, and dimensional form are threshold gates. A stronger
+room, palette, or decorative finish cannot silently compensate for failures
+there. However, preserve and name successful environment or color behavior so
+the next iteration corrects the character without discarding the setting.
+
+Detail on clothing, architecture, or props is desirable when it explains
+material, construction, culture, use, or narrative. Reject incidental
+particulate texture and uniformly distributed micro-marks; do not mistake those
+for material detail.
