@@ -83,6 +83,54 @@ A useful quality check is to blur or reduce the image to roughly 20% size. One f
 Complexity should come from design, silhouette, architecture, composition, and storytelling—not from texture density.
 
 ## High-Frequency Visual Noise
+
+### Independent Comparison Axes
+
+When comparing two images, score these independently:
+
+- anatomy and pose;
+- character specificity and maturity;
+- facial and bodily dimensionality;
+- garment construction and material weight;
+- composition and interaction;
+- environment identity, spatial depth, and lived-in density;
+- color cohesion and palette behavior;
+- shadow structure and readable shadow interiors;
+- selective detail and edge hierarchy;
+- painterly transitions versus polished concept-art finish.
+
+Do not treat a candidate as rejected merely because another candidate wins more
+categories. State the tradeoff. An image may have the better environment and
+color system while remaining provisional because its anatomy and character
+design are weaker. This distinction should guide the next correction rather
+than erase the qualities that already work.
+
+Detail is successful when it clarifies construction and material. A richly
+designed coat may carry seams, layered panels, fasteners, embroidery, wear, and
+selective ornament while still reading as a few large garment masses. Detail
+becomes oppressive when every fold, edge, surface, and accessory competes at
+the same frequency and contrast.
+
+### Painterly Versus Polished Concept Art
+
+High finish is not the same as target fidelity. The target permits beautiful,
+resolved focal areas, but the image must retain variation in edge, surface
+resolution, brush mass, and transition.
+
+Warning signs of polished concept-art drift:
+
+- uniformly clean edges and evenly resolved surfaces;
+- cinematic spectacle carrying more weight than character or place;
+- texture and ornament added as a finishing filter;
+- smooth promotional beauty with generic facial construction;
+- global sharpness, rim light, bloom, or micro-contrast;
+- an image that feels presentation-ready but less observed, material, or
+  emotionally particular.
+
+Preserve deliberate irregularity, quiet passages, lost edges, connected shadow
+masses, matte surfaces, and brush-shaped transitions. Do not make the work
+crudely unfinished; make its resolution selective and purposeful.
+
 Avoid incidental high-frequency visual noise that does not contribute to the scene.
 
 This includes:

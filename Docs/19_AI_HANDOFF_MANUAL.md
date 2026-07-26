@@ -22,6 +22,19 @@ Allow any competent AI system to begin work without requiring the user to restat
   polite cartoon drift, happy-adventure default, narrow palette behavior, and
   geometric clutter.
 - Preserve composition variety.
+- Evaluate anatomy, character design, dimensionality, environment, color, and
+  detail as separate axes; do not collapse them into one preference score.
+- Treat anatomy, mature character specificity, and modeled form as threshold
+  requirements. Environment density or cohesive color cannot compensate for
+  failures in those areas.
+- Preserve useful lived-in environmental density while correcting a weak
+  character. Do not flatten the room merely because its figure needs revision.
+- Distinguish material detail from visual noise. Seams, layering, closures,
+  wear, joinery, tools, and task-specific objects are valuable; particles,
+  repetitive micro-marks, and evenly distributed texture are not.
+- A polished concept-art finish can still be off-target. Favor selective
+  resolution, connected shadow masses, quiet surfaces, lost-and-found edges,
+  and painterly transitions.
 
 ## Dataset Work
 - Never promote candidates automatically.

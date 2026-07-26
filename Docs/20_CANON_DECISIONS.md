@@ -34,6 +34,23 @@
 - Exact identity continuity remains a separate workflow problem and must not be
   solved by contaminating the renderer-style LoRA.
 
+## Visual Evaluation Decisions
+
+- As of 2026-07-26, visual comparisons must keep anatomy/pose, character
+  design/maturity, dimensional rendering, environment density, color cohesion,
+  shadow structure, and selective detail as separate evaluation axes.
+- Anatomy, mature character specificity, and dimensional form are threshold
+  requirements. Strong environment construction or color does not erase
+  shortcomings in those areas, but those successful setting qualities should
+  be preserved in the next iteration.
+- Clothing and environmental detail are desirable when they communicate
+  construction, material, culture, use, or story. This material detail must not
+  be conflated with particulate effects, repetitive micro-marks, or uniform
+  texture density.
+- The target may be highly finished, but it must not collapse into uniformly
+  polished promotional concept art. Selective resolution, painterly
+  transitions, quiet surfaces, and lost-and-found edges remain required.
+
 ## Workflow
 - Approved render images receive chronological IDs.
 - Render manifest must remain updated.
