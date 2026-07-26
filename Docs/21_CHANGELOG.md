@@ -44,3 +44,10 @@ Future changes should extend this structure rather than replace it.
   new characters and environments.
 - Updated the AI handoff so another model can apply these rules without relying
   on renderer experiment history.
+- Added structural silhouette integrity and shape-coherence rules after review
+  of atmospheric environment examples whose composition and painterly style
+  were successful but whose buildings, terrain, and secondary forms dissolved
+  into ambiguous geometric brush fragments.
+- Defined "cleaner" as coherent large masses, readable overlap, continuous
+  identity-defining boundaries, and smoother connected planes—not outlines,
+  sterile precision, photorealism, or additional micro-detail.

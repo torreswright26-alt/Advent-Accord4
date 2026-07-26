@@ -69,6 +69,12 @@ Useful phrasing:
 - deep shaped shadows with readable interior color;
 - resolved face and hands, quieter secondary surfaces;
 - painterly transitions and lost edges outside the focal area.
+- clean readable large silhouettes without heavy outlines;
+- coherent rooflines, structural masses, and negative spaces;
+- smooth connected planes with selective painterly breakup;
+- atmospheric softness that preserves location identity;
+- recognizable architecture and terrain before surface detail;
+- selective crisp edges at form-defining corners, overlaps, and openings.
 
 Use `aa_mature_renderer` after an R2 checkpoint has been selected and installed.
 Until then, treat it as training vocabulary rather than a production guarantee.

@@ -131,6 +131,41 @@ from form, or added only to make the image appear expensive. Clothing may be
 intricate without becoming oppressive when its detail follows construction,
 silhouette, hierarchy, and material.
 
+## Structural Silhouette Integrity
+
+Painterly simplification must preserve the identity of large forms. A location
+should remain readable through its rooflines, towers, bridges, cliffs, trees,
+shorelines, streets, windows, and major interior divisions before surface
+detail is considered.
+
+"Cleaner" does not mean outlined, sterile, vector-like, photorealistic, or
+uniformly sharp. It means:
+
+- major silhouettes have intentional, continuous boundaries;
+- adjacent forms separate through value, color, overlap, or selective edge
+  control;
+- architecture keeps plausible mass, perspective, rhythm, and load-bearing
+  relationships;
+- terrain and foliage simplify into recognizable connected masses;
+- important openings and negative spaces remain legible;
+- broad surfaces transition smoothly enough to read as one object before
+  breaking into painterly variation.
+
+Avoid:
+
+- buildings dissolving into unrelated wedges, tiles, or polygon-like marks;
+- rooflines and skylines losing continuity;
+- cliffs, trees, walls, water, and atmosphere blending into the same edge
+  language;
+- evenly fragmented brushwork that weakens object identity;
+- blurred or melted boundaries at every depth;
+- adding micro-detail to compensate for weak large shapes.
+
+Atmospheric perspective may soften contrast and edges with distance, but it
+must not erase the defining silhouette of a focal location. Preserve the
+current strengths of composition, mood, and painterly handling while making
+the underlying design more structurally legible and slightly smoother.
+
 ## What "Painterly" Means Here
 - Forms are described with shape and value before texture.
 - Not every surface is fully resolved.

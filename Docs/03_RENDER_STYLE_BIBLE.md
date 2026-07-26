@@ -183,6 +183,31 @@ Avoid:
 - Softer edges in atmosphere, distant buildings, foliage, clouds, and secondary props.
 - Lost edges are desirable where they support depth or mood.
 
+Soft edges are not permission for undefined shapes. Each major object should
+first read as a coherent mass, with enough selective boundary information to
+identify it at a glance. Lose edges locally, not indiscriminately.
+
+## Shape Coherence and Environmental Legibility
+
+Establish a clean large-shape design before adding painterly breakup:
+
+1. readable outer silhouette;
+2. clear overlap and depth order;
+3. a few structurally meaningful internal divisions;
+4. broad connected light and shadow planes;
+5. selective surface variation and detail.
+
+Brushwork should ride on top of coherent construction rather than replace it.
+Repeated angular patches, similarly sized blocky marks, or smeared transitions
+across every surface create concept-art shorthand: evocative at first glance,
+but undefined under inspection.
+
+The desired finish is smoother and more resolved than a loose environment
+concept while remaining visibly painted. Preserve simplified masses, but join
+them into convincing roofs, walls, cliffs, vegetation, water boundaries, and
+spatial layers. Favor selective crispness at identity-defining turns and
+openings, with calmer transitions across broad planes.
+
 ## Clouds and Natural Forms
 Natural forms must feel shaped by physical flow and painterly intent.
 

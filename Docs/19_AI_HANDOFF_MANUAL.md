@@ -35,6 +35,16 @@ Allow any competent AI system to begin work without requiring the user to restat
 - A polished concept-art finish can still be off-target. Favor selective
   resolution, connected shadow masses, quiet surfaces, lost-and-found edges,
   and painterly transitions.
+- Preserve structural silhouette integrity. Painterly softness must not cause
+  locations, architecture, terrain, foliage, or water boundaries to dissolve
+  into ambiguous geometric fragments.
+- "Cleaner shapes" means coherent large masses, readable overlaps, continuous
+  identity-defining boundaries, and smoother connected planes—not universal
+  outlines, sterile precision, photorealism, or increased micro-detail.
+- Treat an otherwise successful atmospheric image with slightly undefined
+  environmental shapes as a refinement candidate, not an automatic rejection.
+  Preserve its composition, palette, mood, and painterly strengths while
+  improving structural legibility.
 
 ## Dataset Work
 - Never promote candidates automatically.

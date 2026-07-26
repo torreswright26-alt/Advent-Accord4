@@ -50,6 +50,17 @@
 - The target may be highly finished, but it must not collapse into uniformly
   polished promotional concept art. Selective resolution, painterly
   transitions, quiet surfaces, and lost-and-found edges remain required.
+- As of 2026-07-26, painterly simplification must preserve structural
+  silhouette integrity. Locations and major forms must remain recognizable
+  through coherent masses, continuous defining boundaries, overlap, value
+  separation, and plausible construction.
+- Cleaner silhouettes do not authorize universal outlines, sterile geometry,
+  photorealism, or more micro-detail. The intended correction is smoother
+  connected planes and selective crispness at form-defining edges while
+  retaining painterly atmosphere.
+- Images with strong composition, color, mood, and overall art direction but
+  slightly undefined environmental shapes should be refined rather than
+  broadly rejected; preserve what works while correcting shape coherence.
 
 ## Workflow
 - Approved render images receive chronological IDs.
